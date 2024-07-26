@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head align="center">
+  <link rel="icon" href="img/favicon.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nocturne 21 | About</title>
+
+    <!-- style -->
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- Cherry Cream Soda -->
+<link href="https://db.onlinewebfonts.com/c/06747210b92d5da2086c0a4c811f437f?family=Lacquer+Regular" rel="stylesheet">
+    <!-- Open Sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body align="center" background="img/lily.png">
+
+    <!-- header -->
+    <div class="writeHeader"></div>
+
+<div class="subPage clearfix" align="right">
+    
+    <div>
+        <h1 align="center" >About</h1>
+       </div>
+       
+
+     <table class="aboutTable">
+        
+        <tr>
+          <td>
+            <div align="left">
+        <img src="img/Shimizu-photo.png" alt="Nocturne 21: About" align="right"/>
+      
+
+<p><b>Genre:</b> Sci-fi family drama with mystery, suspense
+and some action<br>
+<b>Rating:</b> Mature</p>
+
+<h2>PLOT</h2>
+
+<p>When Dr. Kuro Shimizu misses the bus one
+particularly rainy spring night, he thinks that the 
+drenched walk home through the streets of Caulwyn 
+marks a low note at the end of a long day. Little does 
+he know that his night has only just begun. When a 
+blood-soaked teenage boy collapses in the street before 
+him, instincts take over as Kuro rushes to the boy’s aid… 
+only to find that the young face is one he recognizes.</p>
+
+<p>Making the bold decision to take the boy home to save 
+his life, the teenager wakes up days later to find that 
+this mysterious traumatic event has left him without a 
+memory. Taking pity on their battered guest, the doctor 
+and his daughter invite him to stay with them, and the 
+trio quickly grow close as a family. But as time goes on, 
+strange and unexplainable things begin to occur around 
+the newest member of the Shimizu household.  </p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div align="left">
+            
+  <div class="iframe">          
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/j5xrqFHDUM4?si=EWxG72NoTUzO3CrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>          
+
+<h2>SOME BACKGROUND</h2>
+
+<p>Nocturne 21 is a passion project I’ve been working on for
+twenty years. It started out as a high schooler’s 
+angsty comic scribbles, but with practice, blood, sweat, 
+a WHOLE lot of tears, and even more “do-overs”, 
+it eventually evolved into a more complex and interesting 
+story. While the genre changes as we dive further into the 
+plot, it will have a consistent focus on compelling 
+characters, desperate struggles, dynamic relationships, 
+and of course… family. For so many of us, our lives, who 
+we become, and what we value comes from family, whether
+it be the one you’re born from or one you choose to 
+forge for yourself.</p>
+            </div>
+          </td>
+        </tr>
+        
+        
+        <tr>
+          <td>
+        
+          <div align="left">
+          <img src="img/about-me.jpg" size="300px" alt="Nocturne 21: About" align="right"/>
+          <h2> ABOUT THE AUTHOR</h2>
+            <p>My name is April, and I’m a comic artist and illustrator, originally from New England but currently living it up in the beautiful country of Japan. Creating characters and stories has always been my passion; it’s what made me teach myself how to draw as a child and refine my talent, eventually going on to get a degree in illustration. In middle school, I discovered comics and realized it was the perfect means to take these characters and their stories and really bring them to life. </p></div>
+          
+            </td>
+        </tr>
+       </table>
+
+</div>
+  
+    
+    <!-- footer -->
+    <div class="writeFooter"></div>
+    
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('nocturne21', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Coffee Fund',
+    'floating-chat.donateButton.background-color': '#5bc0de',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
+
+<!-- at the end of this page we only call the header and footer scripts, because we don't need use any functions from the other scripts. -->
+<script src="js/comic_header.js" defer></script>
+<script src="js/comic_footer.js" defer></script>
+</body>
+</html>
